@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Landing Page </title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Manipulating the DOM</title>
+  <!-- Load Google Fonts -->
+  
+   
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.9/fullpage.min.css" rel="stylesheet">  <!-- Load Styles -->
+  <link href="newstyle.css" rel="stylesheet">  <!-- Load Styles -->
+
+
+
+</head>
+<body>
+	
+	
+	<h1 style="color:yellow;background-color:#1e83c7">Landing Page</h1>
+
+	
+		
+		<div id="fullpage">
+			<div class="section s1">
+				<h1>First Section</h1>
+			</div>
+			<div class="section s2">
+				<h1>Second Section</h1>
+			</div>
+			<div class="section s3">
+				<h1>Third Section</h1>
+			</div>
+			<div class="section s4">
+				<h1>Forth Section</h1>
+			</div>
+		</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.0.9/fullpage.extensions.min.js"></script>
+<script src="app.js"></script>
+		
+			
+	
+</body>
+</html>
